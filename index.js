@@ -44,7 +44,7 @@ const readme = `\
 ## :link: Links
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/edelemmus/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/edelemmus/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin"/></a>
   <a href="mailto:edelemmus@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://open.spotify.com/user/12144018445"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
   <a href="https://twitter.com/emersondelemmus"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
