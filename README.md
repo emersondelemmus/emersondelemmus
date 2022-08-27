@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **deep learning**
+- 🔭 I’m currently working on **DEEP REALLY DEEP learning**
 - 🌱 I’m currently learning **optimisation with genetic algorithms**
 - 👯 I’m looking to collaborate on **computer vision tasks**
 - 🤔 I’m looking for help with **increasing FPS on large resolution video feed**
