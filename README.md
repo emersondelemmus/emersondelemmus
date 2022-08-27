@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="511" height="400" src="https://github.com/emersondelemmus/emersondelemmus/blob/main/quotable_quote_stretch.png">
+  <img width="511" height="400" src="https://github.com/emersondelemmus/emersondelemmus/blob/master/quotable_quote_stretch.png">
 </p>
 
 
