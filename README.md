@@ -3,11 +3,11 @@
 </p>
 
 
-<p align="center">⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 65.5 %
+⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 65.5 %
 ---
-⏰ Updated on Sat, 27 Aug 2022 22:43:55 GMT
+⏰ Updated on Sat, 27 Aug 2022 22:45:28 GMT
 ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
-</p>
+
 
 
 <!--<h1 align="center">Hi 👋, I'm Emerson</h1>-->
