@@ -2,12 +2,11 @@
   <img width="511" height="400" src="https://github.com/emersondelemmus/emersondelemmus/blob/master/quotable_quote_stretch.png">
 </p>
 
-
+<p align="center">
 ⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 65.5 %
 ---
-⏰ Updated on Sat, 27 Aug 2022 22:45:28 GMT
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
-
+⏰ Updated on Sat, 27 Aug 2022 22:47:38 GMT
+</p>
 
 
 <!--<h1 align="center">Hi 👋, I'm Emerson</h1>-->
