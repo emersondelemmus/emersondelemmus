@@ -27,7 +27,7 @@ const readme = `\
 
 
 
-<!--<h1 align="center">Hi 👋, I'm Emerson</h1>-->
+<h1 align="center"> #Hi 👋, I'm Emerson</h1>
 
 <!--
 **emersondelemmus/emersondelemmus** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
