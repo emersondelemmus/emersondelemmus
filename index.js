@@ -18,12 +18,11 @@ const readme = `\
   <img width="511" height="400" src="https://github.com/emersondelemmus/emersondelemmus/blob/master/quotable_quote_stretch.png">
 </p>
 
-
+<p align="center">
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(1)} %
 ---
 ⏰ Updated on ${new Date().toUTCString()}
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
-
+</p>
 
 
 <!--<h1 align="center">Hi 👋, I'm Emerson</h1>-->
