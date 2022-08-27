@@ -20,9 +20,11 @@ const readme = `\
 
 <p align="center">
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(1)} %
+</p>
 ---
 ⏰ Updated on ${new Date().toUTCString()}
-</p>
+
+
 
 
 <!--<h1 align="center">Hi 👋, I'm Emerson</h1>-->
