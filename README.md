@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-##⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 65.5 %
+⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 65.5 %
 </p>
 
 <p align="center">
