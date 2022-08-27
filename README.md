@@ -3,11 +3,10 @@
 </p>
 
 <p align="center">
-⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 65.5 %
+##⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(1)} % 
 </p>
----
 <p align="center">
-⏰ Updated on Sat, 27 Aug 2022 22:50:50 GMT
+⏰ Updated on ${new Date().toUTCString()}
 </p>
 
 
