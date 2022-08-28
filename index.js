@@ -29,7 +29,7 @@ const readme = `\
 
 <h1 align="center"> Hi there 👋, I'm Emerson</h1>
 
-- 🔭 I’m currently working on **everything 🤣**
+- 🔭 I’m currently working on **kaggle competitions**
 - 🌱 I’m currently learning **optimisation with genetic algorithms**
 - 👯 I’m looking to collaborate on **computer vision tasks**
 - 🤔 I’m looking for help with **increasing FPS on large resolution inputs**
