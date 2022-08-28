@@ -6,7 +6,7 @@
 <img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/hourglass-timer.gif" width="20"/> Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 65.5 %
 </p>
 <p align="center">
-⏰ Updated on Sat, 27 Aug 2022 23:36:45 GMT
+⏰ Updated on Sun, 28 Aug 2022 00:21:21 GMT
 </p>
 
 
@@ -29,26 +29,26 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/edelemmus/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin"/></a>
-  <a href="mailto:edelemmus@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://open.spotify.com/user/12144018445"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
-  <a href="https://twitter.com/emersondelemmus"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.facebook.com/emersondelemmus/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
-  <a href="https://www.instagram.com/emersondelemmus/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="mailto:edelemmus@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email"/></a>
+  <a href="https://open.spotify.com/user/12144018445"><img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="spotify"/></a>
+  <a href="https://twitter.com/emersondelemmus"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter"/></a>
+  <a href="https://www.facebook.com/emersondelemmus/"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook"/></a>
+  <a href="https://www.instagram.com/emersondelemmus/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram"/></a>
   <a href="https://medium.com/@edelemmus"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
-  <a href="https://stackoverflow.com/users/8859867/emerson-a-de-lemmus-ii"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
+  <a href="https://stackoverflow.com/users/8859867/emerson-a-de-lemmus-ii"><img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" alt="stackoverflow"/></a>
 </p>
 
 
 
 
 
-**🛠️ Tools:**
+## 🛠️ Tools:
 
-<code><a href="" target="_blank"><img height="65" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="70" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="65" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="55" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg"></a></code>
-<code><a href="" target="_blank"><img height="55" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a></code>
+<code><a href="https://pytorch.org/"><img height="65" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
+<code><a href="https://www.tensorflow.org/"><img height="70" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
+<code><a href="https://numpy.org/"><img height="65" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
+<code><a href="https://pandas.pydata.org/"><img height="55" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg"></a></code>
+<code><a href="https://ubuntu.com/"><img height="55" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a></code>
 <!--<code><a href="" target="_blank"><img height="55" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>-->
 <!--<code><a href="" target="_blank"><img height="70" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></a></code>-->
 
