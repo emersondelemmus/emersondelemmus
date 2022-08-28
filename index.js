@@ -41,10 +41,10 @@ const readme = `\
 ## ✨ My Contributions:
 - [X] [YOLO Image Tiling](https://github.com/emersondelemmus/yolo-tiling) : Added various improvements.
 
-## :link: Links
+## :link: Links:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/edelemmus/"><img height="77" img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/edelemmus/"><img height="75" img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin"/></a>
   <a href="mailto:edelemmus@gmail.com"><img height="80" img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email"/></a>
   <a href="https://open.spotify.com/user/12144018445"><img height="80" img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="spotify"/></a>
   <a href="https://twitter.com/emersondelemmus"><img height="80" img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter"/></a>
@@ -70,7 +70,7 @@ const readme = `\
 <!--<code><a href="" target="_blank"><img height="70" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></a></code>-->
 
 
-[![Emerson de Lemmus's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emersondelemmus&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![emkun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emersondelemmus&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=emersondelemmus&show_icons=true&count_private=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)\
 `
 
