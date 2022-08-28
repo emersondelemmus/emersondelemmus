@@ -19,7 +19,7 @@ const readme = `\
 </p>
 
 <p align="center">
-<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/hourglass-timer.gif" width="20"/> Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(1)} %
+<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/hourglass-timer.gif" width="15"/> Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(1)} %
 </p>
 <p align="center">
 ⏰ Updated on ${new Date().toUTCString()}
@@ -52,6 +52,7 @@ const readme = `\
   <a href="https://www.instagram.com/emersondelemmus/"><img height="80" img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram"/></a>
   <a href="https://medium.com/@edelemmus"><img height="80" img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
   <a href="https://stackoverflow.com/users/8859867/emerson-a-de-lemmus-ii"><img height="80" img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" alt="stackoverflow"/></a>
+  <a href="https://www.verseoftheday.com/"><img height="80" img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Bibletime-logo.svg" alt="medium"/></a>
 </p>
 
 
