@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/hourglass-timer.gif" width="20"/> Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 65.5 %
+<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/hourglass-timer.gif" width="15"/> Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 65.5 %
 </p>
 <p align="center">
-⏰ Updated on Sun, 28 Aug 2022 00:23:34 GMT
+⏰ Updated on Sun, 28 Aug 2022 00:29:27 GMT
 </p>
 
 
@@ -36,6 +36,7 @@
   <a href="https://www.instagram.com/emersondelemmus/"><img height="80" img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram"/></a>
   <a href="https://medium.com/@edelemmus"><img height="80" img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
   <a href="https://stackoverflow.com/users/8859867/emerson-a-de-lemmus-ii"><img height="80" img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" alt="stackoverflow"/></a>
+  <a href="https://www.verseoftheday.com/"><img height="80" img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Bibletime-logo.svg" alt="medium"/></a>
 </p>
 
 
