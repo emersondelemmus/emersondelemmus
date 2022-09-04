@@ -104,7 +104,7 @@ const readme = `\
       <a href="https://colab.research.google.com/" >
         <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48" height="48" alt="Colab" />
       </a>
-      <br>Google Colab
+      <br>Colab
     </td>
     <td align="center" width="96">
       <a href="https://roboflow.com/">
@@ -116,7 +116,7 @@ const readme = `\
       <a href="https://wandb.ai/home">
         <img src="https://wandb.ai/logo.svg" width="48" height="48" alt="wabdb" />
       </a>
-      <br>Weights & Biases
+      <br>W&B
     </td>
   </tr>
   <tr>
@@ -127,22 +127,22 @@ const readme = `\
       <br>GCP
     </td>
     <td align="center" width="96">
-      <a href="#emerson-tech" >
+      <a href="https://kubernetes.io/" >
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
     <td align="center"  width="96">
-      <a href="#emerson-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      <a href="https://www.kaggle.com/">
+        <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="48" height="48" alt="Kaggle" />
       </a>
-      <br>Debian
+      <br>Kaggle
     </td>
     <td align="center"  width="96">
-      <a href="#emerson-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+      <a href="https://ubuntu.com/">
+        <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="48" height="48" alt="UBUNTU" />
       </a>
-      <br>RHEL
+      <br>Ubuntu
     </td>
     <td align="center" width="96">
       <a href="#emerson-tech">
@@ -157,22 +157,22 @@ const readme = `\
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <a href="#emerson-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      <a href="https://www.kdnuggets.com/" >
+        <img src="https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/271899982_5351935481501950_3724978178689618851_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=JhRsCiLRsDQAX9Wzgx8&_nc_ht=scontent-atl3-2.xx&oh=00_AT-WdXM2ouzMqrNboYZf72cdDoHoq1RTziJxrSnRlL2wow&oe=63197005" width="48" height="48" alt="KDNuggets" />
       </a>
-      <br>Grafana
+      <br>KDNuggets
     </td>
     <td align="center" width="96">
-      <a href="#emerson-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+      <a href="https://www.python.org/" >
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Prometheus
+      <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#emerson-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+      <a href="https://www.oracle.com/java/" >
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="48" height="48" alt="Java" />
       </a>
-      <br>Thanos
+      <br>Java
     </td>
   </tr>
 </table>
