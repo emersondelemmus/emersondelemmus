@@ -96,7 +96,7 @@ const readme = `\
     </td>
     <td align="center" width="96">
       <a href="https://pjreddie.com/darknet/">
-        <img src="https://pjreddie.com/static/img/darknet.png" width="48" height="48" alt="Darknet" />
+        <img src="https://pbs.twimg.com/profile_images/865698590122844160/Kg5dYKkG_400x400.jpg" width="48" height="48" alt="Darknet" />
       </a>
       <br>Darknet
     </td>
