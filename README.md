@@ -6,7 +6,7 @@
 <img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/hourglass-timer.gif" width="15"/> <b> Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.6 % </b>
 </p>
 <p align="center">
-⏰ Updated on Sun, 04 Sep 2022 21:59:47 GMT
+⏰ Updated on Sun, 04 Sep 2022 22:02:14 GMT
 </p>
 
 
@@ -15,6 +15,8 @@
 <p align="center">
  <img alig src = "https://github-profile-trophy.vercel.app/?username=emersondelemmus&theme=dracula" />
 </p>
+
+
 - 🔭 I’m currently working on **kaggle competitions**
 - 🌱 I’m currently learning **optimisation w/genetic algorithms**
 - 💬 Ask me about anything! Some faves are **computer vision, VALORCAN'T and higher education.** 
