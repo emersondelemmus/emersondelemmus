@@ -6,7 +6,7 @@
 <img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/hourglass-timer.gif" width="15"/> <b> Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.6 % </b>
 </p>
 <p align="center">
-⏰ Updated on Sun, 04 Sep 2022 20:43:15 GMT
+⏰ Updated on Sun, 04 Sep 2022 20:44:16 GMT
 </p>
 
 
@@ -49,10 +49,10 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href=href="https://pytorch.org/">
+      <a href="https://pytorch.org/">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="PyTorch" />
       </a>
-      <br>Pytorch
+      <br>PyTorch
     </td>
     <td align="center" width="96">
       <a href="#emerson-tech">
