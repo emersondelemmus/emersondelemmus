@@ -6,7 +6,7 @@
 <img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/hourglass-timer.gif" width="15"/> <b> Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.6 % </b>
 </p>
 <p align="center">
-⏰ Updated on Sun, 04 Sep 2022 20:50:37 GMT
+⏰ Updated on Sun, 04 Sep 2022 20:52:20 GMT
 </p>
 
 
@@ -55,7 +55,7 @@
       <br>PyTorch
     </td>
     <td align="center" width="96">
-      <a href="https://www.tensorflow.org/"
+      <a href="https://www.tensorflow.org/">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
       </a>
       <br>TensorFlow
