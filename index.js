@@ -95,10 +95,10 @@ const readme = `\
       <br>OpenCV
     </td>
     <td align="center" width="96">
-      <a href="https://pjreddie.com/darknet/yolo/">
-        <img src="https://pjreddie.com/static/img/darknet.png" width="48" height="48" alt="YOLO" />
+      <a href="https://pjreddie.com/darknet/">
+        <img src="https://pjreddie.com/static/img/darknet.png" width="48" height="48" alt="Darknet" />
       </a>
-      <br>YOLO
+      <br>Darknet
     </td>
     <td align="center" width="96">
       <a href="https://colab.research.google.com/" >
