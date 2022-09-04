@@ -29,7 +29,7 @@ const readme = `\
 
 <h1 align="center"> Hi there 👋, I'm Emerson</h1>
 <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=emersondelemmus&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+ <img alig src = "https://github-profile-trophy.vercel.app/?username=emersondelemmus&theme=dracula" />
 </p>
 - 🔭 I’m currently working on **kaggle competitions**
 - 🌱 I’m currently learning **optimisation w/genetic algorithms**
