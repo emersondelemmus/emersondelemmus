@@ -1,12 +1,12 @@
 <p align="center">
-  <img width="511" height="400" src="https://github.com/emersondelemmus/emersondelemmus/blob/master/quotable_quote_stretch.png">
+  <img width="511" height="400" src="https://github.com/emersondelemmus/emersondelemmus/blob/master/img/quotable_quote_stretch.png">
 </p>
 
 <p align="center">
-<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/hourglass-timer.gif" width="15"/> <b> Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.6 % </b>
+<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.7 % </b>
 </p>
 <p align="center">
-⏰ Updated on Sun, 04 Sep 2022 22:02:14 GMT
+⏰ Updated on Sun, 04 Sep 2022 22:10:27 GMT
 </p>
 
 
@@ -31,7 +31,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/edelemmus/"><img height="75" img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin"/></a>
   <a href="https://www.kaggle.com/emersondelemmus"><img height="80" img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="facebook"/></a>
-  <a href="mailto:edelemmus@gmail.com"><img height="80" img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email"/></a>
+  <a href="mailto:edelemmus@gmail.com"><img height="80" img src="https://github.com/emersondelemmus/emersondelemmus/blob/master/img/envelope%20greeting.png" alt="email"/></a>
   <a href="https://open.spotify.com/user/12144018445"><img height="80" img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="spotify"/></a>
   <a href="https://twitter.com/emersondelemmus"><img height="80" img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter"/></a>
   <a href="https://www.instagram.com/emersondelemmus/"><img height="80" img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram"/></a>
