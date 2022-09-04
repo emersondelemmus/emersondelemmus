@@ -182,15 +182,15 @@ const readme = `\
 
 
 
-## 🛠️ Tools:
+<!--## 🛠️ Tools:
 
 <code><a href="https://pytorch.org/"><img height="65" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
 <code><a href="https://www.tensorflow.org/"><img height="70" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 <code><a href="https://numpy.org/"><img height="65" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
 <code><a href="https://pandas.pydata.org/"><img height="55" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg"></a></code>
 <code><a href="https://ubuntu.com/"><img height="55" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a></code>
-<!--<code><a href="" target="_blank"><img height="55" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>-->
-<!--<code><a href="" target="_blank"><img height="70" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></a></code>-->
+<code><a href="" target="_blank"><img height="55" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="70" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></a></code>-->
 
 
 [![emkun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emersondelemmus&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
