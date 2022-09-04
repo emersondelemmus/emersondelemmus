@@ -6,7 +6,7 @@
 <img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/hourglass-timer.gif" width="15"/> <b> Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.6 % </b>
 </p>
 <p align="center">
-⏰ Updated on Sun, 04 Sep 2022 21:28:23 GMT
+⏰ Updated on Sun, 04 Sep 2022 21:36:30 GMT
 </p>
 
 
@@ -14,13 +14,10 @@
 <h1 align="center"> Hi there 👋, I'm Emerson</h1>
 
 - 🔭 I’m currently working on **kaggle competitions**
-- 🌱 I’m currently learning **optimisation with genetic algorithms**
-- 👯 I’m looking to collaborate on **computer vision tasks**
-- 🤔 I’m looking for help with **increasing FPS on large resolution inputs**
-- 💬 Ask me about anything! My favorites are **computer vision, machine learning, VALORCAN'T and higher education.** 
-- 📫 How to reach me: you can check out [**my linkedin**](https://www.linkedin.com/in/edelemmus/) to send me mail! 
+- 🌱 I’m currently learning **optimisation w/genetic algorithms**
+- 💬 Ask me about anything! Some faves are **computer vision, VALORCAN'T and higher education.** 
+- 📫 How to reach me: check out [**my linkedin**](https://www.linkedin.com/in/edelemmus/)!
 - 😄 Pronouns: (he/him/his)
-- ⚡ Fun fact: I was going to be an MD before switching to computer science. I didn't write code until I was a sophomore in college! 
 
 ## ✨ My Contributions:
 - [X] [YOLO Image Tiling](https://github.com/emersondelemmus/yolo-tiling) : Added various improvements.
@@ -117,10 +114,10 @@
       <br>Kubernetes
     </td>
     <td align="center"  width="96">
-      <a href="https://www.kaggle.com/">
-        <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="48" height="48" alt="Kaggle" />
+      <a href="https://www.docker.com/">
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="Docker" />
       </a>
-      <br>Kaggle
+      <br>Docker
     </td>
     <td align="center"  width="96">
       <a href="https://ubuntu.com/">
