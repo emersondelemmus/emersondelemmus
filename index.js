@@ -65,8 +65,8 @@ const readme = `\
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#emerson-tech">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" width="48" height="48" alt="PyTorch" />
+      <a href=href="https://pytorch.org/">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="PyTorch" />
       </a>
       <br>Pytorch
     </td>
