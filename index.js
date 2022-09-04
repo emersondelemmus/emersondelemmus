@@ -28,9 +28,9 @@ const readme = `\
 
 
 <h1 align="center"> Hi there 👋, I'm Emerson</h1>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=emersondelemmus&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=emersondelemmus&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 - 🔭 I’m currently working on **kaggle competitions**
 - 🌱 I’m currently learning **optimisation w/genetic algorithms**
 - 💬 Ask me about anything! Some faves are **computer vision, VALORCAN'T and higher education.** 
