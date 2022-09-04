@@ -26,7 +26,7 @@ const readme = `\
 </p>
 
 
-<h1 align="center"> <img height="80" img src="https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hello.png"/>I'm Emerson!</h1>
+<h1 align="center"> <img height="80" img src="https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hello.png"/>, I'm Emerson!</h1>
 <p align="center">
  <img alig src = "https://github-profile-trophy.vercel.app/?username=emersondelemmus&theme=dracula" />
 </p>
@@ -46,7 +46,7 @@ const readme = `\
 <p align="center">
   <a href="https://www.linkedin.com/in/edelemmus/"><img height="75" img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin"/></a>
   <a href="https://www.kaggle.com/emersondelemmus"><img height="80" img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="facebook"/></a>
-  <a href="mailto:edelemmus@gmail.com"><img height="85" img src="https://github.com/emersondelemmus/emersondelemmus/blob/master/img/envelope%20greeting.png" alt="email"/></a>
+  <a href="mailto:edelemmus@gmail.com"><img height="85" img src="https://github.com/emersondelemmus/emersondelemmus/blob/master/img/envelope_greeting.png" alt="email"/></a>
   <a href="https://open.spotify.com/user/12144018445"><img height="80" img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="spotify"/></a>
   <a href="https://twitter.com/emersondelemmus"><img height="80" img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter"/></a>
   <a href="https://www.instagram.com/emersondelemmus/"><img height="80" img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram"/></a>
