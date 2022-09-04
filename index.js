@@ -26,8 +26,8 @@ const readme = `\
 </p>
 
 
-
-<h1 align="center"> <p align="left"> <img height="80" img src="https://github.com/emersondelemmus/emersondelemmus/blob/master/img/sticker.png"/></p> Hi there 👋, I'm Emerson</h1>
+<p align="left"> <img height="80" img src="https://github.com/emersondelemmus/emersondelemmus/blob/master/img/sticker.png"/></p>
+<h1 align="center"> Hi there 👋, I'm Emerson</h1>
 <p align="center">
  <img alig src = "https://github-profile-trophy.vercel.app/?username=emersondelemmus&theme=dracula" />
 </p>
