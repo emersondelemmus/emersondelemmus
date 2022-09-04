@@ -31,6 +31,8 @@ const readme = `\
 <p align="center">
  <img alig src = "https://github-profile-trophy.vercel.app/?username=emersondelemmus&theme=dracula" />
 </p>
+
+
 - 🔭 I’m currently working on **kaggle competitions**
 - 🌱 I’m currently learning **optimisation w/genetic algorithms**
 - 💬 Ask me about anything! Some faves are **computer vision, VALORCAN'T and higher education.** 
