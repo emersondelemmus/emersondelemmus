@@ -151,8 +151,8 @@ const readme = `\
       <br>Powershell
     </td>
     <td align="center"  width="96">
-      <a href="#emerson-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <a href="https://www.mysql.com/">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
