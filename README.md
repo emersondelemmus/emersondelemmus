@@ -6,12 +6,12 @@
 <img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.7 % </b>
 </p>
 <p align="center">
-⏰ Updated on Sun, 04 Sep 2022 22:23:48 GMT
+⏰ Updated on Sun, 04 Sep 2022 22:25:29 GMT
 </p>
 
 
-
-<h1 align="center"> <p align="left"> <img height="80" img src="https://github.com/emersondelemmus/emersondelemmus/blob/master/img/sticker.png"/></p> Hi there 👋, I'm Emerson</h1>
+<p align="left"> <img height="80" img src="https://github.com/emersondelemmus/emersondelemmus/blob/master/img/sticker.png"/></p>
+<h1 align="center"> Hi there 👋, I'm Emerson</h1>
 <p align="center">
  <img alig src = "https://github-profile-trophy.vercel.app/?username=emersondelemmus&theme=dracula" />
 </p>
