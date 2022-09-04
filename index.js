@@ -94,7 +94,7 @@ const readme = `\
       </a>
       <br>OpenCV
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" height="50">
       <a href="https://pjreddie.com/darknet/yolo/">
         <img src="https://pjreddie.com/media/image/yologo_2.png" width="48" height="48" alt="YOLO" />
       </a>
