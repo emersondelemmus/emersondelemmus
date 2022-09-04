@@ -29,6 +29,8 @@ const readme = `\
 
 <h1 align="center"> Hi there 👋, I'm Emerson</h1>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=emersondelemmus&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 I’m currently working on **kaggle competitions**
 - 🌱 I’m currently learning **optimisation w/genetic algorithms**
 - 💬 Ask me about anything! Some faves are **computer vision, VALORCAN'T and higher education.** 
@@ -142,10 +144,10 @@ const readme = `\
       <br>Ubuntu
     </td>
     <td align="center" width="96">
-      <a href="#emerson-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+      <a href="https://www.anaconda.com/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Anaconda" />
       </a>
-      <br>Powershell
+      <br>Anaconda
     </td>
     <td align="center"  width="96">
       <a href="https://www.mysql.com/">
