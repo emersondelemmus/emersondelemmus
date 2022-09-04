@@ -6,7 +6,7 @@
 <img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/hourglass-timer.gif" width="15"/> <b> Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.6 % </b>
 </p>
 <p align="center">
-⏰ Updated on Sun, 04 Sep 2022 21:25:00 GMT
+⏰ Updated on Sun, 04 Sep 2022 21:27:41 GMT
 </p>
 
 
@@ -135,8 +135,8 @@
       <br>Powershell
     </td>
     <td align="center"  width="96">
-      <a href="#emerson-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <a href="https://www.mysql.com/">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
