@@ -6,7 +6,7 @@
 <img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.7 % </b>
 </p>
 <p align="center">
-⏰ Updated on Sun, 04 Sep 2022 23:14:51 GMT
+⏰ Updated on Sun, 04 Sep 2022 23:16:15 GMT
 </p>
 
 
@@ -80,7 +80,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://pjreddie.com/darknet/">
-        <img src="https://pjreddie.com/static/img/darknet.png" width="48" height="48" alt="Darknet" />
+        <img src="https://pbs.twimg.com/profile_images/865698590122844160/Kg5dYKkG_400x400.jpg" width="48" height="48" alt="Darknet" />
       </a>
       <br>Darknet
     </td>
