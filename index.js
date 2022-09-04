@@ -101,10 +101,10 @@ const readme = `\
       <br>YOLO
     </td>
     <td align="center" width="96">
-      <a href="https://console.cloud.google.com/marketplace/details/click-to-deploy-images/deeplearning?pli=1" >
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" alt="GCP" />
+      <a href="https://colab.research.google.com/" >
+        <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48" height="48" alt="Colab" />
       </a>
-      <br>GCP
+      <br>Google Colab
     </td>
     <td align="center" width="96">
       <a href="https://roboflow.com/">
@@ -113,18 +113,18 @@ const readme = `\
       <br>Roboflow
     </td>
     <td align="center" width="96">
-      <a href="#emerson-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+      <a href="https://wandb.ai/home">
+        <img src="https://wandb.ai/logo.svg" width="48" height="48" alt="wabdb" />
       </a>
-      <br>Sass
+      <br>Weights & Biases
     </td>
   </tr>
   <tr>
-    <td align="center" width="96"> 
-      <a href="#emerson-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+    <td align="center" width="96">
+      <a href="https://console.cloud.google.com/marketplace/details/click-to-deploy-images/deeplearning?pli=1" >
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" alt="GCP" />
       </a>
-      <br>Docker
+      <br>GCP
     </td>
     <td align="center" width="96">
       <a href="#emerson-tech" >
