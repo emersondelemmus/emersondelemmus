@@ -6,7 +6,7 @@
 <img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/hourglass-timer.gif" width="15"/> <b> Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.6 % </b>
 </p>
 <p align="center">
-⏰ Updated on Sun, 04 Sep 2022 20:52:20 GMT
+⏰ Updated on Sun, 04 Sep 2022 21:02:25 GMT
 </p>
 
 
@@ -73,28 +73,28 @@
       <br>Pandas
     </td>
     <td align="center" width="96">
-      <a href="#emerson-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <a href="https://opencv.org/">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48" alt="OpenCV" />
       </a>
-      <br>TypeScript
+      <br>OpenCV
     </td>
     <td align="center" width="96">
-      <a href="#emerson-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <a href="https://pjreddie.com/darknet/yolo/">
+        <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/yolo.svg" width="48" height="48" alt="YOLO" />
       </a>
-      <br>JavaScript
+      <br>YOLO
     </td>
     <td align="center" width="96">
-      <a href="#emerson-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+      <a href="https://console.cloud.google.com/marketplace/details/click-to-deploy-images/deeplearning?pli=1" >
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" alt="GCP" />
       </a>
-      <br>React
+      <br>GCP
     </td>
     <td align="center" width="96">
-      <a href="#emerson-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      <a href="https://roboflow.com/">
+        <img src="https://pbs.twimg.com/profile_images/1426271234145325062/xIWWM_a-_400x400.jpg" width="48" height="48" alt="Roboflow" />
       </a>
-      <br>Bootstrap
+      <br>Roboflow
     </td>
     <td align="center" width="96">
       <a href="#emerson-tech">
