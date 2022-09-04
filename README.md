@@ -6,7 +6,7 @@
 <img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.7 % </b>
 </p>
 <p align="center">
-⏰ Updated on Sun, 04 Sep 2022 23:13:26 GMT
+⏰ Updated on Sun, 04 Sep 2022 23:14:51 GMT
 </p>
 
 
@@ -79,10 +79,10 @@
       <br>OpenCV
     </td>
     <td align="center" width="96">
-      <a href="https://pjreddie.com/darknet/yolo/">
-        <img src="https://pjreddie.com/static/img/darknet.png" width="48" height="48" alt="YOLO" />
+      <a href="https://pjreddie.com/darknet/">
+        <img src="https://pjreddie.com/static/img/darknet.png" width="48" height="48" alt="Darknet" />
       </a>
-      <br>YOLO
+      <br>Darknet
     </td>
     <td align="center" width="96">
       <a href="https://colab.research.google.com/" >
