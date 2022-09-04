@@ -96,7 +96,7 @@ const readme = `\
     </td>
     <td align="center" width="96">
       <a href="https://pjreddie.com/darknet/yolo/">
-        <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/yolo.svg" width="48" height="48" alt="YOLO" />
+        <img src="https://pjreddie.com/media/image/yologo_2.png" width="48" height="48" alt="YOLO" />
       </a>
       <br>YOLO
     </td>
