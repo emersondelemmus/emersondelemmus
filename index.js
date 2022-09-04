@@ -71,7 +71,7 @@ const readme = `\
       <br>PyTorch
     </td>
     <td align="center" width="96">
-      <a href="https://www.tensorflow.org/"
+      <a href="https://www.tensorflow.org/">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
       </a>
       <br>TensorFlow
