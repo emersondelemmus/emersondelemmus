@@ -19,7 +19,7 @@ const readme = `\
 </p>
 
 <p align="center">
-<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(1)} % </b>
+<a href="https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1?si=67b666fbca574e14"><img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> </a> <b> Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(1)} % </b>
 </p>
 <p align="center">
 ⏰ Updated on ${new Date().toUTCString()}
