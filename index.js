@@ -15,11 +15,11 @@ function generateProgressBar() {
 
 const readme = `\
 <p align="center">
-  <img width="511" height="400" src="https://github.com/emersondelemmus/emersondelemmus/blob/master/img/quotable_quote_stretch.png">
+<a href="https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1?si=67b666fbca574e14"><img width="511" height="400" src="https://github.com/emersondelemmus/emersondelemmus/blob/master/img/quotable_quote_stretch.png"></a>
 </p>
 
 <p align="center">
-<a href="https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1?si=67b666fbca574e14"><img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> </a> <b> Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(1)} % </b>
+<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(1)} % </b>
 </p>
 <p align="center">
 ⏰ Updated on ${new Date().toUTCString()}
