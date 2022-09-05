@@ -1,12 +1,12 @@
 <p align="center">
-  <img width="511" height="400" src="https://github.com/emersondelemmus/emersondelemmus/blob/master/img/quotable_quote_stretch.png">
+<a href="https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1?si=67b666fbca574e14"><img width="511" height="400" src="https://github.com/emersondelemmus/emersondelemmus/blob/master/img/quotable_quote_stretch.png"></a>
 </p>
 
 <p align="center">
-<a href="https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1?si=67b666fbca574e14"><img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> </a> <b> Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.7 % </b>
+<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.7 % </b>
 </p>
 <p align="center">
-⏰ Updated on Mon, 05 Sep 2022 00:32:49 GMT
+⏰ Updated on Mon, 05 Sep 2022 00:34:45 GMT
 </p>
 
 
