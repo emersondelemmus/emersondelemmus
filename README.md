@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { █████████████████████▁▁▁▁▁▁▁▁▁ } 72.2 % </b>
+<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { █████████████████████▁▁▁▁▁▁▁▁▁ } 72.3 % </b>
 </p>
 <p align="center">
-⏰ Updated on Wed, 21 Sep 2022 12:40:47 GMT
+⏰ Updated on Wed, 21 Sep 2022 17:39:59 GMT
 </p>
 
 
@@ -142,7 +142,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.kdnuggets.com/" >
-        <img src="https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/271899982_5351935481501950_3724978178689618851_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=JhRsCiLRsDQAX9Wzgx8&_nc_ht=scontent-atl3-2.xx&oh=00_AT-WdXM2ouzMqrNboYZf72cdDoHoq1RTziJxrSnRlL2wow&oe=63197005" width="48" height="48" alt="KDNuggets" />
+        <img src="https://github.com/emersondelemmus/emersondelemmus/blob/master/img/KD.png" width="48" height="48" alt="KDNuggets" />
       </a>
       <br>KDNuggets
     </td>
