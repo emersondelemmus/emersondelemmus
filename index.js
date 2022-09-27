@@ -166,7 +166,7 @@ const readme = `\
       <a href="https://scikit-learn.org/stable/" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Scikit-Learn
+      <br>sklearn
     </td>
     <td align="center" width="96">
       <a href="https://www.oracle.com/java/" >
