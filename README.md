@@ -6,7 +6,7 @@
 <img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { ██████████████████████▁▁▁▁▁▁▁▁ } 74.0 % </b>
 </p>
 <p align="center">
-⏰ Updated on Tue, 27 Sep 2022 23:28:27 GMT
+⏰ Updated on Tue, 27 Sep 2022 23:32:03 GMT
 </p>
 
 
@@ -150,11 +150,11 @@
       <a href="https://scikit-learn.org/stable/" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Python
+      <br>Scikit-Learn
     </td>
     <td align="center" width="96">
-      <a href="https://www.python.org/" >
-        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" height="48" alt="Python" />
+      <a href="https://www.oracle.com/java/" >
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Java
     </td>
