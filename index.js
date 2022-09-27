@@ -169,8 +169,8 @@ const readme = `\
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="https://www.oracle.com/java/" >
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="48" height="48" alt="Java" />
+      <a href="https://www.python.org/" >
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
