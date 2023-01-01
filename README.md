@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { █████████████████████████████▁ } 99.9 % </b>
+<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 0.0 % </b>
 </p>
 <p align="center">
-⏰ Updated on Sat, 31 Dec 2022 18:16:04 GMT
+⏰ Updated on Sun, 01 Jan 2023 01:21:43 GMT
 </p>
 
 
