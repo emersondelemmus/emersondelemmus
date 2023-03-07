@@ -6,7 +6,7 @@
 <img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 18.0 % </b>
 </p>
 <p align="center">
-⏰ Updated on Tue, 07 Mar 2023 18:04:29 GMT
+⏰ Updated on Tue, 07 Mar 2023 19:02:54 GMT
 </p>
 
 
@@ -23,8 +23,8 @@
 - 😄 Pronouns: (he/him/his)
 
 ## ✨ My Contributions:
-- [X] [UAS-Based Real-Time Detection of Red-Cockaded Woodpecker Cavities in Heterogeneous Landscapes Using YOLO Object Detection Algorithms](https://www.mdpi.com/2072-4292/15/4/883) : Co-Author.
 - [X] [YOLO Image Tiling](https://github.com/emersondelemmus/yolo-tiling) : Added various improvements.
+
 ## :link: Links:
 
 <p align="center">
