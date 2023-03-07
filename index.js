@@ -39,6 +39,7 @@ const readme = `\
 - 😄 Pronouns: (he/him/his)
 
 ## ✨ My Contributions:
+- [X] [UAS-Based Real-Time Detection of Red-Cockaded Woodpecker Cavities in Heterogeneous Landscapes Using YOLO Object Detection Algorithms](https://www.mdpi.com/2072-4292/15/4/883) : Co-Author.
 - [X] [YOLO Image Tiling](https://github.com/emersondelemmus/yolo-tiling) : Added various improvements.
 
 ## :link: Links:
