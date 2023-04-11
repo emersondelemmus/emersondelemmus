@@ -176,6 +176,62 @@ const readme = `\
       <br>Java
     </td>
   </tr>
+  <tr>
+   <td align="center" width="96">
+      <a href="https://github.com/pyenv" >
+        <img src="https://avatars.githubusercontent.com/u/16530698?s=200&v=4" width="48" height="48" alt="pyenv" />
+      </a>
+      <br>pyenv
+    </td>
+   <td align="center" width="96">
+      <a href="https://jupyter.org/" >
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="48" height="48" alt="jupter" />
+      </a>
+      <br>Jupyter
+    </td>
+   <td align="center" width="96">
+      <a href="https://github.com/tmux/tmux/wiki" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Tmux_logo.svg" width="48" height="48" alt="tmux" />
+      </a>
+      <br>tmux
+    </td>
+   <td align="center" width="96">
+      <a href="https://www.vim.org/" >
+        <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" width="48" height="48" alt="vim" />
+      </a>
+      <br>Vim
+    </td>
+   <td align="center" width="96">
+      <a href="https://en.wikipedia.org/wiki/Mac_operating_systems" >
+        <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/MacOS_original_logo.svg" width="48" height="48" alt="MacOS" />
+      </a>
+      <br>MacOS
+    </td>
+   <td align="center" width="96">
+      <a href="https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/" >
+        <img src="https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg" width="48" height="48" alt="CUDA" />
+      </a>
+      <br>CUDA
+    </td>
+   <td align="center" width="96">
+      <a href="https://lightgbm.readthedocs.io/en/v3.3.2/" >
+        <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_black_text.svg" width="48" height="48" alt="LightGBM" />
+      </a>
+      <br>LightGBM
+    </td>
+   <td align="center" width="96">
+      <a href="https://xgboost.readthedocs.io/en/stable/#" >
+        <img src="https://images.opencollective.com/xgboost/3a1e64e/logo/192.png" width="48" height="48" alt="XGBoost" />
+      </a>
+      <br>XGBoost
+    </td>
+   <td align="center" width="96">
+      <a href="https://ocw.mit.edu/" >
+        <img src="https://www.vectorlogo.zone/logos/mitedu/mitedu-icon.svg" width="48" height="48" alt="OCW" />
+      </a>
+      <br>opencourseware
+    </td>
+  </tr>
 </table>
 
 
