@@ -6,7 +6,7 @@
 <img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 28.0 % </b>
 </p>
 <p align="center">
-⏰ Updated on Thu, 13 Apr 2023 03:55:09 GMT
+⏰ Updated on Thu, 13 Apr 2023 03:59:11 GMT
 </p>
 
 
@@ -199,7 +199,7 @@
     </td>
    <td align="center" width="96">
       <a href="https://lightgbm.readthedocs.io/en/v3.3.2/" >
-        <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_black_text.svg" width="48" height="48" alt="LightGBM" />
+        <img src="https://github.com/valohai/ml-logos/blob/master/lightgbm_on_spark.svg" width="48" height="48" alt="LightGBM" />
       </a>
       <br>LightGBM
     </td>
