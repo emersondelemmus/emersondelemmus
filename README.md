@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 27.9 % </b>
+<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 28.0 % </b>
 </p>
 <p align="center">
-⏰ Updated on Thu, 13 Apr 2023 00:13:53 GMT
+⏰ Updated on Thu, 13 Apr 2023 03:55:09 GMT
 </p>
 
 
@@ -175,7 +175,7 @@
     </td>
    <td align="center" width="96">
       <a href="https://github.com/tmux/tmux/wiki" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Tmux_logo.svg" width="48" height="48" alt="tmux" />
+        <img src="https://vectorwiki.com/images/LWEdW__tmux.svg" width="48" height="48" alt="tmux" />
       </a>
       <br>tmux
     </td>
