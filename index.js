@@ -191,7 +191,7 @@ const readme = `\
     </td>
    <td align="center" width="96">
       <a href="https://github.com/tmux/tmux/wiki" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Tmux_logo.svg" width="48" height="48" alt="tmux" />
+        <img src="https://vectorwiki.com/images/LWEdW__tmux.svg" width="48" height="48" alt="tmux" />
       </a>
       <br>tmux
     </td>
