@@ -40,6 +40,7 @@ const readme = `\
 
 ## ✨ My Contributions:
 - [X] [UAS-Based Real-Time Detection of Red-Cockaded Woodpecker Cavities in Heterogeneous Landscapes Using YOLO Object Detection Algorithms](https://www.mdpi.com/2072-4292/15/4/883) : Co-Author.
+- [X] [DETECTION OF RED-COCKADED WOODPECKER HABITATS USING YOLO ALGORITHMS](https://shsu-ir.tdl.org/bitstream/handle/20.500.11875/3635/DE%20LEMMUS%20II-PRIMARY-2022.pdf?sequence=1&isAllowed=y) : Author.
 - [X] [YOLO Image Tiling](https://github.com/emersondelemmus/yolo-tiling) : Added various improvements.
 
 ## :link: Links:
