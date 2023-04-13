@@ -215,7 +215,7 @@ const readme = `\
     </td>
    <td align="center" width="96">
       <a href="https://lightgbm.readthedocs.io/en/v3.3.2/" >
-        <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_black_text.svg" width="48" height="48" alt="LightGBM" />
+        <img src="https://github.com/valohai/ml-logos/blob/master/lightgbm_on_spark.svg" width="48" height="48" alt="LightGBM" />
       </a>
       <br>LightGBM
     </td>
