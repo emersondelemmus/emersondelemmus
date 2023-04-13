@@ -6,7 +6,7 @@
 <img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 28.0 % </b>
 </p>
 <p align="center">
-⏰ Updated on Thu, 13 Apr 2023 03:59:11 GMT
+⏰ Updated on Thu, 13 Apr 2023 04:04:47 GMT
 </p>
 
 
@@ -24,6 +24,7 @@
 
 ## ✨ My Contributions:
 - [X] [UAS-Based Real-Time Detection of Red-Cockaded Woodpecker Cavities in Heterogeneous Landscapes Using YOLO Object Detection Algorithms](https://www.mdpi.com/2072-4292/15/4/883) : Co-Author.
+- [X] [DETECTION OF RED-COCKADED WOODPECKER HABITATS USING YOLO ALGORITHMS](https://shsu-ir.tdl.org/bitstream/handle/20.500.11875/3635/DE%20LEMMUS%20II-PRIMARY-2022.pdf?sequence=1&isAllowed=y) : Author.
 - [X] [YOLO Image Tiling](https://github.com/emersondelemmus/yolo-tiling) : Added various improvements.
 
 ## :link: Links:
