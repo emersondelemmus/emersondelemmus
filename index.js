@@ -240,6 +240,12 @@ const readme = `\
       </a>
       <br>seaborn
     </td>
+  <td align="center" width="96">
+      <a href="https://keras.io/" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="keras" />
+      </a>
+      <br>Keras
+    </td>
   </tr>
 </table>
 
