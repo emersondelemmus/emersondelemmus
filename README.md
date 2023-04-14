@@ -6,7 +6,7 @@
 <img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 28.5 % </b>
 </p>
 <p align="center">
-⏰ Updated on Fri, 14 Apr 2023 20:18:57 GMT
+⏰ Updated on Fri, 14 Apr 2023 20:22:52 GMT
 </p>
 
 
@@ -223,6 +223,12 @@
         <img src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg" width="48" height="48" alt="Seaborn" />
       </a>
       <br>seaborn
+    </td>
+  <td align="center" width="96">
+      <a href="https://keras.io/" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="keras" />
+      </a>
+      <br>Keras
     </td>
   </tr>
 </table>
