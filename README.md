@@ -217,6 +217,15 @@
       <br>opencourseware
     </td>
   </tr>
+  <tr>
+  <td align="center" width="96">
+      <a href="https://seaborn.pydata.org/index.html" >
+        <img src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg" width="48" height="48" alt="seaborn" />
+      </a>
+      <br>pyenv
+    </td>
+  </tr>
+  
 </table>
 
 
