@@ -6,7 +6,7 @@
 <img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.2 % </b>
 </p>
 <p align="center">
-⏰ Updated on Mon, 17 Apr 2023 18:04:38 GMT
+⏰ Updated on Mon, 17 Apr 2023 18:15:47 GMT
 </p>
 
 
@@ -229,6 +229,12 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="keras" />
       </a>
       <br>Keras
+    </td>
+    <td align="center" width="96">
+      <a href="https://aws.amazon.com/" >
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48" alt="aws" />
+      </a>
+      <br>AWS
     </td>
   </tr>
 </table>
