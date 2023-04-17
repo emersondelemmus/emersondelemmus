@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.2 % </b>
+<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.3 % </b>
 </p>
 <p align="center">
-⏰ Updated on Mon, 17 Apr 2023 18:15:47 GMT
+⏰ Updated on Mon, 17 Apr 2023 18:18:58 GMT
 </p>
 
 
@@ -235,6 +235,12 @@
         <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48" alt="aws" />
       </a>
       <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="https://code.visualstudio.com/" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="vscode" />
+      </a>
+      <br>VSCode
     </td>
   </tr>
 </table>
