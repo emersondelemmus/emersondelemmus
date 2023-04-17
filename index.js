@@ -246,6 +246,12 @@ const readme = `\
       </a>
       <br>Keras
     </td>
+    <td align="center" width="96">
+      <a href="https://aws.amazon.com/" >
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48" alt="aws" />
+      </a>
+      <br>AWS
+    </td>
   </tr>
 </table>
 
