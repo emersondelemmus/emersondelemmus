@@ -258,6 +258,12 @@ const readme = `\
       </a>
       <br>VSCode
     </td>
+    <td align="center" width="96">
+      <a href="https://neo4j.com/" >
+        <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" width="48" height="48" alt="neo4j" />
+      </a>
+      <br>neo4j
+    </td>
   </tr>
 </table>
 
