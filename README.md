@@ -6,7 +6,7 @@
 <img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 36.9 % </b>
 </p>
 <p align="center">
-⏰ Updated on Mon, 15 May 2023 15:23:11 GMT
+⏰ Updated on Mon, 15 May 2023 15:24:55 GMT
 </p>
 
 
@@ -250,7 +250,7 @@
     </td>
      <td align="center" width="96">
       <a href="https://mlflow.org/" >
-        <img src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" width="48" height="48" alt="mlflow" />
+        <img src="https://avatars.githubusercontent.com/u/61449322?v=4" width="48" height="48" alt="mlflow" />
       </a>
       <br>MLflow
     </td>
