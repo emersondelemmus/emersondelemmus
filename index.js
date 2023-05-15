@@ -266,7 +266,7 @@ const readme = `\
     </td>
      <td align="center" width="96">
       <a href="https://mlflow.org/" >
-        <img src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" width="48" height="48" alt="mlflow" />
+        <img src="https://avatars.githubusercontent.com/u/61449322?v=4" width="48" height="48" alt="mlflow" />
       </a>
       <br>MLflow
     </td>
