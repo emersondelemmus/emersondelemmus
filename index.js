@@ -264,6 +264,12 @@ const readme = `\
       </a>
       <br>neo4j
     </td>
+     <td align="center" width="96">
+      <a href="https://mlflow.org/" >
+        <img src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" width="48" height="48" alt="mlflow" />
+      </a>
+      <br>MLflow
+    </td>
   </tr>
 </table>
 
