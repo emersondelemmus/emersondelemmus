@@ -270,6 +270,12 @@ const readme = `\
       </a>
       <br>MLflow
     </td>
+    <td align="center" width="96">
+      <a href="https://catboost.ai/" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" width="48" height="48" alt="CatBoost" />
+      </a>
+      <br>CatBoost
+    </td>
   </tr>
 </table>
 
