@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 43.7 % </b>
+<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 43.8 % </b>
 </p>
 <p align="center">
-⏰ Updated on Fri, 09 Jun 2023 12:05:28 GMT
+⏰ Updated on Fri, 09 Jun 2023 17:03:58 GMT
 </p>
 
 
@@ -253,6 +253,12 @@
         <img src="https://avatars.githubusercontent.com/u/61449322?v=4" width="48" height="48" alt="mlflow" />
       </a>
       <br>MLflow
+    </td>
+    <td align="center" width="96">
+      <a href="https://catboost.ai/" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" width="48" height="48" alt="CatBoost" />
+      </a>
+      <br>CatBoost
     </td>
   </tr>
 </table>
