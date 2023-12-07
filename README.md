@@ -2,26 +2,32 @@
 <a href="https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1?si=67b666fbca574e14"><img width="511" height="400" src="https://github.com/emersondelemmus/emersondelemmus/blob/master/img/quotable_quote_stretch.png"></a>
 </p>
 
+<p align="center">
+<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { ███████████████████████████▁▁▁ } 93.2 % </b>
+</p>
+<p align="center">
+⏰ Updated on Thu, 07 Dec 2023 00:15:10 GMT
+</p>
+
 
 <h1 align="center"> <img height="80" img src="https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hello.png"/>, I'm Emerson!</h1>
 <p align="center">
- <img alig src = "https://github-profile-trophy.vercel.app/?username=edelemmus&theme=dracula" />
+ <img alig src = "https://github-profile-trophy.vercel.app/?username=emersondelemmus&theme=dracula" />
 </p>
 
 
 - 🔭 I’m currently working on **kaggle competitions**
-- 🌱 I’m currently learning **optimisation with genetic algorithms**
-- 💬 Ask me about anything! Some faves are **computer vision, VALORCAN'T, and higher education.** 
+- 🌱 I’m currently learning **optimisation w/genetic algorithms**
+- 💬 Ask me about anything! Some faves are **computer vision, VALORCAN'T and higher education.** 
 - 📫 How to reach me: check out [**my linkedin**](https://www.linkedin.com/in/edelemmus/)!
 - 😄 Pronouns: (he/him/his)
 
 ## ✨ My Contributions:
 - [X] [UAS-Based Real-Time Detection of Red-Cockaded Woodpecker Cavities in Heterogeneous Landscapes Using YOLO Object Detection Algorithms](https://www.mdpi.com/2072-4292/15/4/883) : Co-Author.
-- [X] [Cotton Care: Harnessing Transfer Learning for Real-Time Health Assessment with Mobile Devices](https://ieeexplore.ieee.org/document/10210231) : Co-Author.
-- [X] [DETECTION OF RED-COCKADED WOODPECKER HABITATS USING YOLO ALGORITHMS](https://shsu-ir.tdl.org/items/f738cc1b-6ed2-47a7-8045-3fdacc78a1cf) : Principal Author.
+- [X] [DETECTION OF RED-COCKADED WOODPECKER HABITATS USING YOLO ALGORITHMS](https://shsu-ir.tdl.org/bitstream/handle/20.500.11875/3635/DE%20LEMMUS%20II-PRIMARY-2022.pdf?sequence=1&isAllowed=y) : Author.
 - [X] [YOLO Image Tiling](https://github.com/emersondelemmus/yolo-tiling) : Added various improvements.
 
-## 🔗 Links:
+## :link: Links:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/edelemmus/"><img height="75" img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin"/></a>
@@ -31,6 +37,7 @@
   <a href="https://twitter.com/emersondelemmus"><img height="80" img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter"/></a>
   <a href="https://www.instagram.com/emersondelemmus/"><img height="80" img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram"/></a>
   <a href="https://medium.com/@edelemmus"><img height="80" img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
+  <a href="https://stackoverflow.com/users/8859867/emerson-a-de-lemmus-ii"><img height="80" img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" alt="stackoverflow"/></a>
   <a href="https://www.verseoftheday.com/"><img height="85" img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Bibletime-logo.svg" alt="medium"/></a>
 </p>
 
@@ -241,14 +248,23 @@
       </a>
       <br>neo4j
     </td>
-   <td align="center" width="96">
-      <a href="https://kedro.org/" >
-        <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/kedro.svg" width="48" height="48" alt="kedro" />
+     <td align="center" width="96">
+      <a href="https://mlflow.org/" >
+        <img src="https://avatars.githubusercontent.com/u/61449322?v=4" width="48" height="48" alt="mlflow" />
       </a>
-      <br>kedro
+      <br>MLflow
+    </td>
+    <td align="center" width="96">
+      <a href="https://catboost.ai/" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" width="48" height="48" alt="CatBoost" />
+      </a>
+      <br>CatBoost
     </td>
   </tr>
 </table>
+
+
+
 
 
 
@@ -262,8 +278,8 @@
 <code><a href="" target="_blank"><img height="55" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="70" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></a></code>-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emersondelemmus&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersondelemmus)](https://github.com/anuraghazra/github-readme-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emersondelemmus&theme=cottoncandy)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![emkun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emersondelemmus&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=emersondelemmus&show_icons=true&count_private=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)[![emkun's github activity](https://github-readme-activity-graph.cyclic.app/graph?username=emersondelemmus&theme=react-dark&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
