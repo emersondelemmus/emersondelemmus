@@ -6,7 +6,7 @@
 <img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { ████████████████████████████▁▁ } 96.4 % </b>
 </p>
 <p align="center">
-⏰ Updated on Mon, 18 Dec 2023 18:04:28 GMT
+⏰ Updated on Mon, 18 Dec 2023 20:57:52 GMT
 </p>
 
 
@@ -260,26 +260,17 @@
       </a>
       <br>CatBoost
     </td>
-  </tr>
+    <td align="center" width="96">
+    <a href="https://kedro.org/" >
+      <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/kedro.svg" width="48" height="48" alt="kedro" />
+    </a>
+    <br>kedro
+  </td>
+</tr>
 </table>
 
-
-
-
-
-
-<!--## 🛠️ Tools:
-
-<code><a href="https://pytorch.org/"><img height="65" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
-<code><a href="https://www.tensorflow.org/"><img height="70" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
-<code><a href="https://numpy.org/"><img height="65" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
-<code><a href="https://pandas.pydata.org/"><img height="55" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg"></a></code>
-<code><a href="https://ubuntu.com/"><img height="55" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a></code>
-<code><a href="" target="_blank"><img height="55" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="70" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></a></code>-->
-
-
-[![emkun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emersondelemmus&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=emersondelemmus&show_icons=true&count_private=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)[![emkun's github activity](https://github-readme-activity-graph.cyclic.app/graph?username=emersondelemmus&theme=react-dark&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emersondelemmus&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersondelemmus)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emersondelemmus&theme=cottoncandy)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
